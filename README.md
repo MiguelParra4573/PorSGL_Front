@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # front
 
 ## Project setup
@@ -32,3 +33,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# PorSGL_Front
+>>>>>>> 3caed8dfc7d4bf6ae82a773dda6387932b3ffd0f
